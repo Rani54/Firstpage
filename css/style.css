@@ -1,0 +1,22 @@
+.my-Carousel
+ {
+ margin-top:-30px;
+ }
+ul .active
+{
+background-color:green;
+}
+.navbar-custom {
+    color: #FFFFFF;
+    background-color: #CC3333;
+}
+.navbar {
+    color: #000000;
+    background-color: #CC3333;
+}
+li:hover
+{
+background-color:green;
+color:white;
+font-weight:bold;
+}
